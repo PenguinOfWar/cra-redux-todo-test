@@ -43,7 +43,7 @@ By the end of the test, your application should:
 
 ## Get Started
 
-`git clone https://github.com/PenguinOfWar/cra-redux-todo-test`
+`git clone https://github.com/PenguinOfWar/cra-redux-todo-test.git`
 `cd cra-redux-todo-test`
 `npm install`
 
