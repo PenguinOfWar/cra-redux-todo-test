@@ -41,6 +41,12 @@ By the end of the test, your application should:
 2. Comments
 3. Sensible code structure
 
+## Get Started
+
+`git clone https://github.com/PenguinOfWar/cra-redux-todo-test`
+`cd cra-redux-todo-test`
+`npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
