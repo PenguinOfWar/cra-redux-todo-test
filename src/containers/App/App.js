@@ -11,17 +11,10 @@ function App() {
           <div className="row">
             <div className="col">
               <img src={logo} className="App-logo" alt="logo" />
+              <h1>Start creating your TODO app here</h1>
               <p>
                 Edit <code>src/containers/App/App.js</code> and save to reload.
               </p>
-              <a
-                className="App-link"
-                href="https://reactjs.org"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Learn React
-              </a>
             </div>
           </div>
         </div>
